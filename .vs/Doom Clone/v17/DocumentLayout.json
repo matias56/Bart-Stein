@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Doom Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|d:\\unity\\doom clone\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\enemyawareness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyawareness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\pressstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\difficultyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\difficultyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\buttonhigh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonhigh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\angleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\angleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|D:\\Unity\\Doom Clone\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15F9536-1451-F571-6671-2959A933EBA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:01:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PressStart.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\PressStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PressStart.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\PressStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PressStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:28:55.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:23:25.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyAwareness.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemyAwareness.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAwareness.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemyAwareness.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAwareness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:30:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwCoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:11:42.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DifficultySelector.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\DifficultySelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DifficultySelector.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\DifficultySelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DifficultySelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:02:50.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwIYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:43:16.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemySpawn.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemySpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawn.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemySpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawn.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:16:15.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyManager.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:09:31.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:11:35.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonHigh.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\ButtonHigh.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonHigh.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\ButtonHigh.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonHigh.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:38:04.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnglePlayer.cs",
+              "DocumentMoniker": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\AnglePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnglePlayer.cs",
+              "ToolTip": "D:\\Unity\\Doom Clone\\Assets\\Scripts\\AnglePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnglePlayer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:32:40.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

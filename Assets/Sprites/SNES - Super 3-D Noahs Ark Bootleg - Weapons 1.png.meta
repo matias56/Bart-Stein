@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 437120c9f8535324eaf434074d6ccfa1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 401
+        width: 28
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420b877d69f5ce47a2baf24d775f642
+      internalID: -2044067720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 401
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab7984dcb79fd742bb24e2162f26de2
+      internalID: 1752638902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 401
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33406c1fa1a5914cbc05ec036436b05
+      internalID: -373069069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 401
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb24e9b85e2294398f6113528502cb
+      internalID: -384255391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8bd0c25a80f214fb4b5fa9211bb08e
+      internalID: -1528481614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509a92c7cd411e479d24a652a53aaf4
+      internalID: 1988699246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff45b897f469614099e47a26613964f
+      internalID: 1543774742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 321
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a6f6af9db395448e8a906d1f05b96
+      internalID: 842924767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ee18c631725342b2dadf9fdcd6a4a
+      internalID: -146041426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d2260d264a0342b7f3377edee6eae
+      internalID: 740935063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac510c7cda8c74092747798a2bd353
+      internalID: 1504613787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4eaf9006a12fb45ab0b4acb1acf286
+      internalID: -1056147041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 81
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c45237debf0b84398f1fed0cdfda9a
+      internalID: 989191819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 81
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b259197913464dbf0676c28e1e0d9
+      internalID: 260967228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 81
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30438777a2eeb8549ba097e819a0796a
+      internalID: -1940514751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 14
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53829a917f1b6428262e3067b7aa6a
+      internalID: 887869612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80a3bc89872c5248a7bd228b1dcc8a6
+      internalID: -582291872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992827836e553a4199b338da7217fad
+      internalID: 77289431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649057ab6db887a4cb2ebda1e391bfc2
+      internalID: 464916170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08901a06388d44380f3cbd3f1b4e31
+      internalID: -826694356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 25
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c601c39632a80141a9f8bc71fc38228
+      internalID: 1953273890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb4f217e7461943a06ac362434bd07
+      internalID: -1292520427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c43045d695f01a47b34ae40722baaf1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_21: 77289431
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_9: -146041426
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_16: -1940514751
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_22: 464916170
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_27: -1292520427
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_24: 1953273890
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_7: 842924767
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_14: 989191819
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_8: -151576206
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_2: -373069069
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_5: 1988699246
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_1: 1752638902
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_19: -736417156
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_11: -1434247108
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_20: -582291872
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_3: -384255391
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_10: 740935063
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_12: 1504613787
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_28: -1233479789
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_6: 1543774742
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_25: 1268191721
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_23: -826694356
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_29: 1498742443
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_0: -2044067720
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_13: -1056147041
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_17: 887869612
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_18: 837940084
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_26: 35977170
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_15: 260967228
+      SNES - Super 3-D Noahs Ark Bootleg - Weapons 1_4: -1528481614
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
